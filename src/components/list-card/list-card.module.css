@@ -1,0 +1,13 @@
+.listcard{
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+}
+.card{
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+.margin{
+    margin: 10px;
+}
